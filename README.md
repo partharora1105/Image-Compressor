@@ -21,7 +21,7 @@ Images often contain redundant information, and image compression is a technique
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Image-Compressor.git
+git clone https://github.com/partharora1105/Image-Compressor.git
 cd Image-Compressor
 ```
 
